@@ -1,4 +1,4 @@
-- 👋 hello, my name is qwertyy!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+hello%2C+my+name+is+qwertyy!)](https://git.io/typing-svg)
 - 👀 i'm interested in pursuing a career in computer science. however, i'm only a middle schooler, so i'll have to wait :P
 - 🌱 i'm currently learning whatever i can about computers!
 - 💞️ i'm currently not looking for projects to collab on, i've got enough on my plate right now! sorry!
