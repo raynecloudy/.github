@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=qwertyytheartist&color=orange)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+hello%2C+my+name+is+qwertyy!)](https://git.io/typing-svg)
 
 <img alt="Static Badge" src="https://img.shields.io/badge/os-linux mint 21.2-green?logo=linuxmint"> <img alt="Static Badge" src="https://img.shields.io/badge/browser-google chrome-blue?logo=googlechrome">
