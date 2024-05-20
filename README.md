@@ -33,7 +33,3 @@ reason for quitting, `Segmentation fault: core dumped`
 ## ten minutes of coffeescript
 javascript but better
 ![meme](https://github.com/qwertyy-dev/qwertyy-dev/assets/129226914/4403dba0-0f62-4226-be83-fc4328322f1a)
-
-
-# devcard
-<a href="https://app.daily.dev/qwertyy"><img src="https://api.daily.dev/devcards/v2/qau4bmhYnV6wiKKhAeIkE.png?type=wide&r=7jy" width="652" alt="qwertyy lastname's Dev Card"/></a>
