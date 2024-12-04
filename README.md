@@ -25,4 +25,19 @@ fast facts:
 - i'm a cat person and a dog person.
 
 i love my girlfriend @kitsunabigail <3
+
+OS: EndeavourOS x86_64 (i use arch btw)
+Host: HP Laptop 14-dk1xxx
+Kernel: Linux 6.11.4-arch1-1
+Shell: bash 5.2.37
+Display (HP VH240a): 1920x1080 @ 60 Hz in 24" [External] *
+Display (BOE07B5): 1366x768 @ 60 Hz in 14" [Built-in]
+DE: KDE Plasma 6.2.3
+WM: KWin (Wayland)
+Terminal: konsole 24.8.3
+CPU: AMD Athlon Silver 3050U (2) @ 2.30 GHz
+GPU: AMD Radeon Vega Series / Radeon Vega Mobile Series [Integrated]
+Memory: 13.57 GiB
+Disk (/): 115.83 GiB - ext4
+Locale: en_US.UTF-8
 ```
