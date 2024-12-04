@@ -23,6 +23,7 @@ fast facts:
 - i love mexican food.
 - my favourite colour is pink.
 - i'm a cat person and a dog person.
+- master > main
 
 i love my girlfriend @kitsunabigail <3
 
