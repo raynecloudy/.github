@@ -24,5 +24,5 @@ fast facts:
 - my favourite colour is pink.
 - i'm a cat person and a dog person.
 
-<3
+i love my girlfriend @kitsunabigail <3
 ```
