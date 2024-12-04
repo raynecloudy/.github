@@ -26,9 +26,9 @@ fast facts:
 
 i love my girlfriend @kitsunabigail <3
 
-OS: EndeavourOS x86_64 (i use arch btw)
+OS: EndeavourOS x86_64
 Host: HP Laptop 14-dk1xxx
-Kernel: Linux 6.11.4-arch1-1
+Kernel: Linux 6.11.4-arch1-1 (i use arch btw)
 Shell: bash 5.2.37
 Display (HP VH240a): 1920x1080 @ 60 Hz in 24" [External] *
 Display (BOE07B5): 1366x768 @ 60 Hz in 14" [Built-in]
