@@ -18,7 +18,7 @@ six years of experience in web development specifically. in more recent times, i
 inspired by computer terminals, which were also the inspiration for this README.
 
 fast facts:
-- my favourite programming language is javascript.
+- my favourite programming language is rust.
 - my least favourite programming language is python.
 - i love mexican food.
 - my favourite colour is pink.
