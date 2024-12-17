@@ -1,5 +1,5 @@
 ```md
-~/mystuff/theraynecloud/ $ node .
+~/mystuff/raynecloudy/ $ node .
 
 hi, i'm rayne!
 
