@@ -26,7 +26,7 @@ Shell: bash 5.2.37
 Display (HP VH240a): 1920x1080 @ 60 Hz in 24" [External] *
 Display (BOE07B5): 1366x768 @ 60 Hz in 14" [Built-in]
 DE: KDE Plasma 6.2.3
-WM: KWin (Wayland)
+WM: Hyprland (Wayland)
 Terminal: konsole 24.8.3
 CPU: AMD Athlon Silver 3050U (2) @ 2.30 GHz
 GPU: AMD Radeon Vega Series / Radeon Vega Mobile Series [Integrated]
