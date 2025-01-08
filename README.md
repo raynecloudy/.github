@@ -3,10 +3,11 @@
 
 hi, i'm rayne!
 
-  i'm a passionate teenage frontend web developer that loves learning new things and expanding their knowledge.
-i've been programming since i was a young child and have been working hard at my craft for eight years. i have
-six years of experience in web development specifically. in more recent times, i've become fascinated with and
-inspired by computer terminals, which were also the inspiration for this README.
+  i'm a passionate teenage fullstack node.js/web developer that loves learning new things and expanding their
+knowledge. i've been programming since i was a young child and have been working hard at my craft for eight
+years. i have six years of experience in web development specifically. in more recent times, i've become
+fascinated with and inspired by computer terminals, which were also the inspiration for this README. i've also
+gotten into more backend-focused stuff recently.
 
 fast facts:
 - my favourite programming language is rust.
