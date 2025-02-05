@@ -3,9 +3,12 @@
   BIOS (basic input/output system)
 > rayney
 [  OK  ] mounting drive
-[  OK  ] starting confusion daemon
+[FAILED] starting thinking daemon
+         error: thinking daemon does not exist
+[  OK  ] starting goofball daemon
 [FAILED] starting socialization daemon
          error: socialization daemon does not exist
+[  OK  ] starting :3 daemon
 [  OK  ] starting rayney shell
 ┌──────────────────────────────────────────────────────────────────────┐
 │ ** heya!! my name's rayne, and i'm a fullstack web developer! ^w^ ** |
