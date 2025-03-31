@@ -18,8 +18,6 @@ gotten into more backend-focused stuff recently.
 • master > main
 • i prefer the MIT license
 
-@@ i love my girlfriend @kitsunabigail <3 @@
-
 OS: EndeavourOS x86_64
 Host: HP Laptop 14-dk1xxx
 Kernel: Linux 6.11.4-arch1-1 (i use arch btw)
