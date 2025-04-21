@@ -1,5 +1,4 @@
 <pre>
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
               +                           ┃   ❤    Pro    Teams    Pricing    Documentation
                                         + ┃────────────────────────────────────────────────────────────────────────────────
