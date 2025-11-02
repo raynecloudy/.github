@@ -8,7 +8,7 @@
          .------------------------------------------------[🗕 🗖 ✖]-.
          |  hi!! my name's rayne! i'm a fullstack web developer    |Code (Beta)      ◼ 0 Dependencices      ◼ 0 D
 +        |  with a huge passion for computer science! i've been    |---------------------------------------------
-         |  programming for upwards of 8 years now.                |
+         |  programming for upwards of 9 years now.                |
          |'.___      ____________________________________________.'|
          |     \     \                                             |
          |       '.  __.                                           |
