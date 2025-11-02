@@ -13,13 +13,13 @@
          |     \     \                                             |
          |       '.  __.                                           |
          |                                                         |
-         |                                                         | the popular <a href="https://github.com/adryd325/oneko.js/">oneko.js</a> script! featuring
+         |                                                         | the popular <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script! featuring
          |                                                         |ate control, and other fun stuff!
      +   |                                                         |
          |                                                         |
          '---------------------------------------------------------'---------------------------------------      
                             +             |   Welcome to lots-o-nekos! This project is a Javascript library
-                                          |   building off of <a href="https://github.com/adryd325/">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js/">oneko.js</a> script. It features
+                                          |   building off of <a href="https://github.com/adryd325">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script. It features
       +                                   |   customization capabilities such as speed, graphics, and more!
                                           |
                                           |   <b>Contributing</b>
@@ -41,5 +41,7 @@
                              /$$  | $$                                                                 
                             |  $$$$$$/                                                                 
                              \______/                                                                  
+
+                                                 + <a href="https://raynec.dev">click here!</a> +
 
 </code></pre></a>
