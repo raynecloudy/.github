@@ -27,33 +27,33 @@
                                         + |   This project takes contributions from any and all! New
                           +               |   features are always welcome, and there could always be more
                                           |   Oneko graphics to choose from... if you're a pixel
-                                           '.____________________________________________________________________
-
+                                          '.____________________________________________________________________
+            +                                                            +
 
       my current major project is <b>Nekomide</b>. nekomide is a web                      .-----.          .-----.
-      development IDE that helps you do what you do best. with a large             |       \        |     |
+      development IDE that helps you do what you do best. with a large       +     |       \        |     |
       variety of customization options and quality-of-life features,               |         \      |     |
       nekomide will be a great IDE!! when it's uhh finished. it's very             |     .     \    |     |
       early in development right now. you can follow its development by            |     |  \    \  |     |
       joining my discord server!!!!                                                |     |    \    \'     |
-                                                                                   |     | _.._ \         |
+                                                                +                  |     | _.._ \         |
       .----------------.  .-------------.                                        . '.--'''      '''-.     |
       | <a href="https://discord.raynec.dev">discord server</a> |  | <a href="https://github.com/nekomide">github org.</a> |                                       '          _.._       '.--'
       '----------------'  '-------------'                                        '----''''      '''---'
-
-
-      come find more about me on my website!
+                                                  +
+  +                                                                                        +
+      come find more about me on my website!                    +
                                                                                /$$                     
-                                                                              | $$                     
+                                                                              | $$                           +
            /$$$$$$  /$$$$$$  /$$   /$$ /$$$$$$$   /$$$$$$   /$$$$$$$      /$$$$$$$  /$$$$$$  /$$    /$$
-          /$$__  $$|____  $$| $$  | $$| $$__  $$ /$$__  $$ /$$_____/     /$$__  $$ /$$__  $$|  $$  /$$/
+   +      /$$__  $$|____  $$| $$  | $$| $$__  $$ /$$__  $$ /$$_____/     /$$__  $$ /$$__  $$|  $$  /$$/
          | $$  \__/ /$$$$$$$| $$  | $$| $$  \ $$| $$$$$$$$| $$          | $$  | $$| $$$$$$$$ \  $$/$$/ 
          | $$      /$$__  $$| $$  | $$| $$  | $$| $$_____/| $$          | $$  | $$| $$_____/  \  $$$/  
          | $$     |  $$$$$$$|  $$$$$$$| $$  | $$|  $$$$$$$|  $$$$$$$ /$$|  $$$$$$$|  $$$$$$$   \  $/   
          |__/      \_______/ \____  $$|__/  |__/ \_______/ \_______/|__/ \_______/ \_______/    \_/    
                              /$$  | $$                                                                 
-                            |  $$$$$$/                                                                 
-                             \______/                                                                  
+                            |  $$$$$$/                                            +                    
+        +                    \______/                                                                  
 
                                                  + <a href="https://raynec.dev">click here!</a> +
 
