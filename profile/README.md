@@ -16,7 +16,7 @@
          |  getting into a four-year college to achieve this       | the popular <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script! featuring
          |  goal!                                                  |ate control, and other fun stuff!
      +   |                                                         |
-         |  scroll down to learn more about me and what i've made  |
+         |  i hope you have a great day!!!!                        |
           '.___      ____________________________________________.'----------------------------------------      
                \     \      +             |   Welcome to lots-o-nekos! This project is a Javascript library
                  '.  __.                  |   building off of <a href="https://github.com/adryd325">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script. It features
