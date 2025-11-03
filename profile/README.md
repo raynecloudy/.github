@@ -37,9 +37,9 @@
       early in development right now. you can follow its development by            |     |  \    \  |     |
       joining my discord server!!!!                                                |     |    \    \'     |
                                                                 +                  |     | _.._ \         |
-      .----------------.  .-------------.                                        . '.--'''      '''-.     |
-      | <a href="https://discord.raynec.dev">discord server</a> |  | <a href="https://github.com/nekomide">github org.</a> |                                       '          _.._       '.--'
-      '----------------'  '-------------'                                        '----''''      '''---'
+      .------------------------------.                                           . '.--'''      '''-.     |
+      | <a href="https://discord.raynec.dev">discord server</a> | <a href="https://github.com/nekomide">github org.</a> |                                          '          _.._       '.--'
+      '------------------------------'                                           '----''''      '''---'
                                                   +
   +                                                                                        +
       come find more about me on my website!                    +
