@@ -13,7 +13,7 @@
          |  alongside being a passionate web developer, i'm also   |
          |  a sophomore in high school. i plan on majoring in      |
          |  computer science when i go to college, and hope to     |
-         |  getting into a four-year college to achieve this       | the popular <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script! featuring
+         |  get into a four-year college to help me achieve this   | the popular <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script! featuring
          |  goal!                                                  |ate control, and other fun stuff!
      +   |                                                         |
          |  i hope you have a great day!!!!                        |
