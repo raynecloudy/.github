@@ -18,8 +18,8 @@
      +   |                                                         |
          |  i hope you have a great day!!!!                        |
           '.___      ____________________________________________.'----------------------------------------      
-               \     \      +             |   Welcome to lots-o-nekos! This project is a Javascript library
-                 '.  __.                  |   building off of <a href="https://github.com/adryd325">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script. It features
+              /     /       +             |   Welcome to lots-o-nekos! This project is a Javascript library
+            .__  .'                       |   building off of <a href="https://github.com/adryd325">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script. It features
       +                                   |   customization capabilities such as speed, graphics, and more!
                                           |
                                           |   <b>Contributing</b>
