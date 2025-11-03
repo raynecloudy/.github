@@ -5,21 +5,21 @@
       +                                   |----------------------------------------------------------------------
                               +           |
                                           |  lots-o-nekos  [TS]
-         .------------------------------------------------[🗕 🗖 ✖]-.
-         |  hi!! my name's rayne! i'm a fullstack web developer    |Code (Beta)      ◼ 0 Dependencices      ◼ 0 D
+          .-----------------------------------------------[🗕 🗖 ✖].
+         '  hi!! my name's rayne! i'm a fullstack web developer    'Code (Beta)      ◼ 0 Dependencices      ◼ 0 D
 +        |  with a huge passion for computer science! i've been    |---------------------------------------------
          |  programming for upwards of 9 years now.                |
-         |'.___      ____________________________________________.'|
-         |     \     \                                             |
-         |       '.  __.                                           |
          |                                                         |
-         |                                                         | the popular <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script! featuring
-         |                                                         |ate control, and other fun stuff!
+         |  alongside being a passionate web developer, i'm also   |
+         |  a sophomore in high school. i plan on majoring in      |
+         |  computer science when i go to college, and hope to     |
+         |  getting into a four-year college to achieve this       | the popular <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script! featuring
+         |  goal!                                                  |ate control, and other fun stuff!
      +   |                                                         |
-         |                                                         |
-         '---------------------------------------------------------'---------------------------------------      
-                            +             |   Welcome to lots-o-nekos! This project is a Javascript library
-                                          |   building off of <a href="https://github.com/adryd325">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script. It features
+         |  scroll down to learn more about me and what i've made  |
+          '.___      ____________________________________________.'----------------------------------------      
+               \     \      +             |   Welcome to lots-o-nekos! This project is a Javascript library
+                 '.  __.                  |   building off of <a href="https://github.com/adryd325">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script. It features
       +                                   |   customization capabilities such as speed, graphics, and more!
                                           |
                                           |   <b>Contributing</b>
@@ -27,7 +27,20 @@
                                         + |   This project takes contributions from any and all! New
                           +               |   features are always welcome, and there could always be more
                                           |   Oneko graphics to choose from... if you're a pixel
-                                          '----------------------------------------------------------------------
+                                           '.____________________________________________________________________
+
+
+      my current major project is <b>Nekomide</b>. nekomide is a web                      .-----.          .-----.
+      development IDE that helps you do what you do best. with a large             |       \        |     |
+      variety of customization options and quality-of-life features,               |         \      |     |
+      nekomide will be a great IDE!! when it's uhh finished. it's very             |     .     \    |     |
+      early in development right now. you can follow its development by            |     |  \    \  |     |
+      joining my discord server!!!!                                                |     |    \    \'     |
+                                                                                   |     | _.._ \         |
+      .----------------.  .-------------.                                        . '.--'''      '''-.     |
+      | <a href="https://discord.raynec.dev">discord server</a> |  | <a href="https://github.com/nekomide">github org.</a> |                                       '          _.._       '.--'
+      '----------------'  '-------------'                                        '----''''      '''---'
+
 
       come find more about me on my website!
                                                                                /$$                     
