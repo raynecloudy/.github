@@ -1,60 +1,36 @@
-<pre>
-              +                           |   ❤    Pro    Teams    Pricing    Documentation
-                                        + |----------------------------------------------------------------------
-                                          |   <b>npm</b>   🔍 Search packages
-      +                                   |----------------------------------------------------------------------
-                              +           |
-                                          |  lots-o-nekos  [TS]
-          .-----------------------------------------------[🗕 🗖 ✖].
-         '  hi!! my name's rayne! i'm a fullstack web developer    'Code (Beta)      ◼ 0 Dependencices      ◼ 0 D
-+        |  with a huge passion for computer science! i've been    |---------------------------------------------
-         |  programming for upwards of 9 years now.                |
-         |                                                         |
-         |  alongside being a passionate web developer, i'm also   |
-         |  a sophomore in high school. i plan on majoring in      |
-         |  computer science when i go to college, and hope to     |
-         |  get into a four-year college to help me achieve this   | the popular <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script! featuring
-         |  goal!                                                  |ate control, and other fun stuff!
-     +   |                                                         |
-         |  i hope you have a great day!!!!                        |
-          '.___      ____________________________________________.'----------------------------------------      
-              /     /       +             |   Welcome to lots-o-nekos! This project is a Javascript library
-            .__  .'                       |   building off of <a href="https://github.com/adryd325">adryd325</a>'s <a href="https://github.com/adryd325/oneko.js">oneko.js</a> script. It features
-      +                                   |   customization capabilities such as speed, graphics, and more!
-                                          |
-                                          |   <b>Contributing</b>
-        +                                 |   -------------------------------------------------------------
-                                        + |   This project takes contributions from any and all! New
-                          +               |   features are always welcome, and there could always be more
-                                          |   Oneko graphics to choose from... if you're a pixel
-                                          '.____________________________________________________________________
-            +                                                            +
+hii i'm rayne. I'm a high schooler in the Pacific Northwest and have been programming for nine years. My most notable project at the moment is probably [lots-o-nekos](https://github.com/raynecloudy/lots-o-nekos).
 
-      my current major project is <b>Nekomide</b>. nekomide is a web                      .-----.          .-----.
-      development IDE that helps you do what you do best. with a large       +     |       \        |     |
-      variety of customization options and quality-of-life features,               |         \      |     |
-      nekomide will be a great IDE!! when it's uhh finished. it's very             |     .     \    |     |
-      early in development right now. you can follow its development by            |     |  \    \  |     |
-      joining my discord server!!!!                                                |     |    \    \'     |
-                                                                +                  |     | _.._ \         |
-      .------------------------------.                                           . '.--'''      '''-.     |
-      | <a href="https://discord.rayne.page">discord server</a> | <a href="https://github.com/nekomide">github org.</a> |                                          '          _.._       '.--'
-      '------------------------------'                                           '----''''      '''---'
-                                                  +
-  +                                                                                        +
-      come find more about me on my website!                    +
-                                                                                                            +
-                                                                                             
-     +     /$$$$$$  /$$$$$$  /$$   /$$ /$$$$$$$   /$$$$$$       /$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$ 
-          /$$__  $$|____  $$| $$  | $$| $$__  $$ /$$__  $$     /$$__  $$ |____  $$ /$$__  $$ /$$__  $$
-         | $$  \__/ /$$$$$$$| $$  | $$| $$  \ $$| $$$$$$$$    | $$  \ $$  /$$$$$$$| $$  \ $$| $$$$$$$$
-         | $$      /$$__  $$| $$  | $$| $$  | $$| $$_____/    | $$  | $$ /$$__  $$| $$  | $$| $$_____/
-         | $$     |  $$$$$$$|  $$$$$$$| $$  | $$|  $$$$$$$ /$$| $$$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$$        +
-         |__/      \_______/ \____  $$|__/  |__/ \_______/|__/| $$____/  \_______/ \____  $$ \_______/
-                             /$$  | $$                        | $$                 /$$  \ $$          
-                            |  $$$$$$/                +       | $$                |  $$$$$$/          
-          +                  \______/                         |__/                 \______/           
+My current long-term project is [Nekomide](https://github.com/nekomide), the most ambitious project I've ever created. You can refer to the "Organizations" section on the left for a list of more interesting things I'm involved in.
 
-                                                 + <a href="https://rayne.page">click here!</a> +
+You can reach out to me on [Discord](https://discord.rayne.page) or by emailing me at [hi@rayne.page](mailto:hi@rayne.page).
 
-</code></pre></a>
+```
+                  -`                     rayne@raynespc
+                 .o+`                    --------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: Inspiron 15 3535 (1.20.0)
+              `+oooooo:                  Kernel: Linux 6.17.4-arch2-1
+              -+oooooo+:                 Uptime: 3 days, 7 hours, 50 mins
+            `/:-:++oooo+:                Packages: 1238 (pacman)
+           `/++++/+++++++:               Shell: bash
+          `/++++++++++++++:              Display (HP VH240a): 1920x1080 in 24", 60 Hz [External]
+         `/+++ooooooooooooo/`            Display (BOE09E6): 1920x1080 in 16", 60 Hz [Built-in] *
+        ./ooosssso++osssssso+`           DE: KDE Plasma 6.5.4
+       .oossssso-````/ossssss+`          WM: KWin (Wayland)
+      -osssssso.      :ssssssso.         WM Theme: Layan
+     :osssssss/        osssso+++.        Theme: Breeze (Sweet) [Qt], Breeze-Dark [GTK2], Breeze [GTK3/4]
+    /ossssssss/        +ssssooo/-        Icons: Fluent-dark [Qt], Fluent-dark [GTK2/3/4]
+  `/ossssso+/:-        -:/+osssso+-      Font: Nunito (10pt) [Qt], Nunito (10pt) [GTK2/3/4]
+ `+sso+:-`                 `.-/+oso:     Cursor: Bibata-Modern-Classic (24px)
+`++:.                           `-/+/    Terminal: konsole 25.8.2
+.`                                 `/    Terminal Font: Maple Mono (10pt)
+                                         CPU: AMD Ryzen 7 7730U (16) @ 4.55 GHz
+                                         GPU: AMD Barcelo [Integrated]
+                                         Memory: 8.60 GiB / 14.97 GiB (57%)
+                                         Swap: 3.98 GiB / 4.00 GiB (99%)
+                                         Disk (/): 176.10 GiB / 467.40 GiB (38%) - ext4
+                                         Local IP (wlan0): 192.168.68.108/22
+                                         Battery (0x4A,0x35,0x35,0x37,0x00,0x00,0x00): 100% [AC Connected]
+                                         Locale: en_US.UTF-8
+
+```
