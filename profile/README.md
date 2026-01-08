@@ -32,5 +32,4 @@ You can reach out to me on [Discord](https://discord.rayne.page) or by emailing 
                                          Local IP (wlan0): 192.168.68.108/22
                                          Battery (0x4A,0x35,0x35,0x37,0x00,0x00,0x00): 100% [AC Connected]
                                          Locale: en_US.UTF-8
-
 ```
