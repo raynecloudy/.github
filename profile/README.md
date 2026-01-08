@@ -2,7 +2,7 @@ hii i'm rayne. I'm a high schooler in the Pacific Northwest and have been progra
 
 My current long-term project is [Nekomide](https://github.com/nekomide), the most ambitious project I've ever created. You can refer to the "Organizations" section on the left for a list of more interesting things I'm involved in.
 
-You can reach out to me on [Discord](https://discord.rayne.page) or by emailing me at [hi@rayne.page](mailto:hi@rayne.page).
+You can reach out to me on [Discord](https://discord.rayne.page) or by emailing [hi@rayne.page](mailto:hi@rayne.page).
 
 ```
                   -`                     rayne@raynespc
