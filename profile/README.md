@@ -1,6 +1,6 @@
-hii i'm rayne. I'm a high schooler in the Pacific Northwest and have been programming for nine years. My most notable project at the moment is probably [lots-o-nekos](https://github.com/raynecloudy/lots-o-nekos).
+hii i'm rayne. I'm a high schooler in the Pacific Northwest and have been programming for nine years. I use a DELL Inspiron 15 3535 laptop running Arch Linux.
 
-My current long-term project is [Nekomide](https://github.com/nekomide), the most ambitious project I've ever created. You can refer to the "Organizations" section on the left for a list of more interesting things I'm involved in.
+I'm a full-stack web developer and for the past two years have been working on my own web development IDE, called [Nekomide](https://github.com/nekomide). You can refer to the "Organizations" section on the left for a list of more interesting things I'm involved in.
 
 You can reach out to me on [Discord](https://discord.rayne.page) or by emailing [hi@rayne.page](mailto:hi@rayne.page).
 
